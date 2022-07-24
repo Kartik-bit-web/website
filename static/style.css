@@ -1,0 +1,95 @@
+/* Third secction */
+#cont{
+    background-color: rgba(236, 237, 236, 0.6); 
+    position:absolute; 
+    text-align: center; 
+    color: black; 
+    padding: 1%;  
+    top: 10%;
+    margin-left: 2%;
+    margin-right: 3%;
+  }
+
+/*fourth section */
+
+#menu{
+    background-color: rgb(238, 234, 234);
+    text-align: center; 
+    color: black; 
+    width: 100%;
+    margin: 0;
+    padding: 10%;
+}
+.main-menu{
+   background-color: rgb(255, 255, 255);
+   box-shadow: 3px 3px 3px rgb(189, 189, 189);
+   margin: 0;
+}
+
+.main-menu2{
+    background-color: rgb(255, 255, 255);
+    padding: 5%;
+    margin: 0%;
+    height: 15rem;
+    overflow-y: scroll;
+ }
+
+.main-menu::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.main-menu {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+/* menu list */
+#menu-col{
+    box-shadow: 3px 3px 3px rgb(189, 189, 189);
+    display: flex;
+
+}
+
+/* menu list */
+#img11{
+    width: 100px;
+}
+
+/* Fiveth selection */
+#col2{
+    box-shadow: 3px 3px 3px rgb(189, 189, 189);
+    text-align: center;
+    padding: 1.5%;
+    margin: 1.2%;
+    
+}
+
+/* Six Selection */
+#review{
+    background-color: rgb(23, 23, 23);
+    color: rgb(222, 216, 216);
+}
+#demo{
+    text-align: center;
+    padding: 10%;
+}
+
+/* Seventh and Eight Selection */
+
+#cont22{
+    margin: 0%;
+    
+    text-align: center;
+}
+#img22{
+    width: 100%;
+    height: 100%;
+    float: right;
+}
+
+/* Nine Selection */
+a{
+    text-decoration: none;
+}
+
